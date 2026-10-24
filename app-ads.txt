@@ -1,0 +1,9 @@
+google.com, pub-9903708672981684, DIRECT, f08c47fec0942fa0
+
+# A second copy. The authoritative one is at the ROOT of the developer website
+# — https://ios-apps-gully.github.io/app-ads.txt — which is where the IAB spec
+# says buyers look and where Google says it looks. This copy sits beside the
+# app's own page because the App Store lists that page as the developer
+# website, and a crawler that resolves the URL rather than the domain would
+# look here. It costs nothing to answer at both addresses while an app is
+# failing verification.
